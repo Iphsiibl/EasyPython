@@ -113,6 +113,8 @@ EasyPython/
 ├── Python知识点总结.html    # 同一份文件的命名副本，方便下载分发
 ├── banner.png              # 1280×640 README / 社交预览
 ├── banner@2x.png           # 2560×1280 高清版
+├── build/smoke.py          # 49 项端到端回归（playwright）
+├── .nojekyll               # 让 Pages 跳过 Jekyll，原样发布静态文件
 ├── LICENSE                 # MIT
 └── README.md
 ```
