@@ -1,0 +1,25 @@
+# 依赖与构建
+node_modules/
+dist/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 本地环境
+.env
+*.local
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# 本仓库的构建产物（banner 源文件与脚本不提交，只保留成品）
+build/banner/*.jpg
